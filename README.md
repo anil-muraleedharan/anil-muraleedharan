@@ -1,6 +1,6 @@
 [![@kannan_anil's Holopin board](https://holopin.me/kannan_anil)](https://holopin.io/@kannan_anil)
 
-<img align = "left" width = "52%" src = "https://github-readme-stats.vercel.app/api?username=anil-muraleedharan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<img align = "left" width = "52%" src = "https://github-readme-stats.vercel.app/api?username=anil-muraleedharan&show_icons=true&theme=radical&count_private=true" />
 
 <img align = "left" width = "43%" height = "90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anil-muraleedharan&layout=compact&count_private=true" />
 <!-- ### Hi there 👋 -->
