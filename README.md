@@ -1,4 +1,4 @@
-[![@kannan_anil's Holopin board](https://holopin.me/kannan_anil)](https://holopin.io/@kannan_anil)
+[![@kannan_anil's Holopin board](https://holopin.me/kannananil)](https://holopin.io/@kannananil)
 
 <img align = "left" width = "52%" src = "https://github-readme-stats.vercel.app/api?username=kannananil&show_icons=true&theme=radical&count_private=true" />
 
