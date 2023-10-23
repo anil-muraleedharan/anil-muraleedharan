@@ -1,8 +1,14 @@
 [![@kannan_anil's Holopin board](https://holopin.me/kannananil)](https://holopin.io/@kannananil)
 
-<img align = "left" width = "52%" src = "https://github-readme-stats.vercel.app/api?username=kannananil&show_icons=true&theme=radical&count_private=true" />
-
-<img align = "left" width = "43%" height = "90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kannananil&layout=compact&count_private=true" />
+<p align="center">
+  <a href="https://github.com/kannananil">
+      <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=kannananil&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+      <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kannananil&layout=compact&langs_count=8&theme=algolia&count_private=true" />
+  </a>
+</p>
+<p align="center">
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kannananil&" alt="kannananil" />
+</p>
 <!-- ### Hi there 👋 -->
 
 <!--
