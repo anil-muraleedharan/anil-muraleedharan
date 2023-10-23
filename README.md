@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/kannananil">
-      <img height="240rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=kannananil&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-      <img height="240rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannananil&layout=compact&langs_count=8&theme=github_dark&count_private=true" />
+      <img height="220rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=kannananil&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+      <img height="220rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannananil&layout=compact&langs_count=8&theme=github_dark&count_private=true" />
   </a>
 </p>
 <p align="center">
-  <img height="240em" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kannananil&theme=github-dark-blue" alt="kannananil" />
+  <img height="220em" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kannananil&theme=github-dark-blue" alt="kannananil" />
 </p>
 <!-- ### Hi there 👋 -->
 
